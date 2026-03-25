@@ -1,0 +1,10 @@
+{
+  "name": "cert_tools",
+  "version": "1.0.0",
+  "author": "unstrike",
+  "category": "Utilities",
+  "dataScope": "full",
+  "endpoints": [],
+  "requiredAPIKeys": [],
+  "commands": ["cert_decode", "cert_days"]
+}

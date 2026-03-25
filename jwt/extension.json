@@ -1,0 +1,13 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "author": "unstrike",
+  "category": "Utilities",
+  "dataScope": "none",
+  "endpoints": [],
+  "requiredAPIKeys": [],
+  "commands": [
+    "jwt_decode",
+    "jwt_exp"
+  ]
+}

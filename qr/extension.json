@@ -1,0 +1,13 @@
+{
+  "name": "qr",
+  "version": "1.0.0",
+  "author": "unstrike",
+  "category": "Utilities",
+  "dataScope": "none",
+  "endpoints": [],
+  "requiredAPIKeys": [],
+  "commands": [
+    "qr",
+    "qr_url"
+  ]
+}

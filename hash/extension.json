@@ -1,0 +1,20 @@
+{
+  "name": "hash",
+  "version": "2.0.0",
+  "author": "unstrike",
+  "category": "Utilities",
+  "dataScope": "none",
+  "endpoints": [],
+  "requiredAPIKeys": [],
+  "commands": [
+    "hash_crc32",
+    "hash_fnv1a",
+    "hash_djb2",
+    "hash_adler32",
+    "hash_md5",
+    "hash_sha1",
+    "hash_sha256",
+    "hash_sha512",
+    "hash_all"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "recon",
+  "version": "1.1.0",
+  "author": "unstrike",
+  "category": "Security",
+  "dataScope": "none",
+  "endpoints": ["https://ipapi.co", "https://stat.ripe.net"],
+  "requiredAPIKeys": ["apikey_bgpview"],
+  "commands": ["asn_lookup"]
+}

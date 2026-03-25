@@ -1,0 +1,17 @@
+{
+  "name": "encode",
+  "version": "1.0.0",
+  "author": "unstrike",
+  "category": "Utilities",
+  "dataScope": "none",
+  "endpoints": [],
+  "requiredAPIKeys": [],
+  "commands": [
+    "b64_encode",
+    "b64_decode",
+    "url_encode",
+    "url_decode",
+    "html_encode",
+    "html_decode"
+  ]
+}

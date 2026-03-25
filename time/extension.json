@@ -1,0 +1,16 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "author": "unstrike",
+  "category": "Utilities",
+  "dataScope": "none",
+  "endpoints": [],
+  "requiredAPIKeys": [],
+  "commands": [
+    "epoch",
+    "from_epoch",
+    "now",
+    "date_diff",
+    "tz_convert"
+  ]
+}

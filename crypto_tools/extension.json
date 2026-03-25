@@ -1,0 +1,10 @@
+{
+  "name": "crypto_tools",
+  "version": "1.1.0",
+  "author": "unstrike",
+  "category": "Utilities",
+  "dataScope": "none",
+  "endpoints": [],
+  "requiredAPIKeys": [],
+  "commands": ["uuid_gen", "rand_hex", "rand_b64", "password_gen"]
+}

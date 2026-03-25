@@ -1,0 +1,10 @@
+{
+  "name": "number_base",
+  "version": "1.0.0",
+  "author": "unstrike",
+  "category": "Utilities",
+  "dataScope": "none",
+  "endpoints": [],
+  "requiredAPIKeys": [],
+  "commands": ["to_hex", "to_bin", "to_oct", "to_dec", "byte_size"]
+}

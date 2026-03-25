@@ -1,0 +1,16 @@
+{
+  "name": "ip_tools",
+  "version": "1.0.0",
+  "author": "unstrike",
+  "category": "Networking",
+  "dataScope": "none",
+  "endpoints": [],
+  "requiredAPIKeys": [],
+  "commands": [
+    "cidr_info",
+    "ip_info",
+    "ip_in_cidr",
+    "subnet_mask",
+    "ip_to_binary"
+  ]
+}

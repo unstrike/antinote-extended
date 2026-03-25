@@ -1,0 +1,10 @@
+{
+  "name": "obsidian",
+  "version": "1.0.0",
+  "author": "unstrike",
+  "category": "Productivity",
+  "dataScope": "line",
+  "endpoints": ["http://localhost:27124"],
+  "requiredAPIKeys": [],
+  "commands": ["obs_task", "obs_nlp", "obs_tasks", "obs_done", "obs_stats"]
+}
