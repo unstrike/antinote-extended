@@ -1,6 +1,6 @@
 # antinote-extended
 
-Custom [Antinote](https://antinote.io) extensions by [@unstrike](https://github.com/unstrike).
+A curated set of custom [Antinote](https://antinote.io) [extensions](https://github.com/johnsonfung/antinote-extensions).
 
 ---
 
