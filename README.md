@@ -236,30 +236,6 @@ Integer base conversion and byte size. All local.
 
 ---
 
-### obsidian
-
-Create and manage tasks in [Obsidian TaskNotes](https://github.com/GreenMashimaro/obsidian-task-notes) from Antinote.
-
-**Requires:** TaskNotes plugin with HTTP API enabled (`Obsidian → TaskNotes → Integrations → HTTP API`, default port 27124). Leave auth token blank for local use.
-
-| Command | Type | Description |
-|---------|------|-------------|
-| `::obs_task(title, priority, due)` | insert | Create a task (priority: `low`/`normal`/`high`/`urgent`, due: `YYYY-MM-DD`) |
-| `::obs_nlp(text)` | insert | Create a task from natural language — date, priority, context parsed automatically |
-| `::obs_tasks(status)` | insert | List tasks filtered by status: `open`, `in-progress`, `done`, `all` |
-| `::obs_done()` | replaceLine | Mark the task on the current line as done |
-| `::obs_stats()` | insert | Task statistics |
-
-**Examples:**
-```
-::obs_task("Review PR", high, 2026-03-28)
-::obs_nlp("follow up with client tomorrow morning urgent")
-::obs_tasks(open)
-::obs_done()   ← run on a line containing a task
-```
-
----
-
 ### pentest
 
 Utilities for pentest notes. All local — no network.
